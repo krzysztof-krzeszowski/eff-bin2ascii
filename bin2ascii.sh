@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# script to convert binary single pulses into ascii single file
+
 # check number of parameters
 if [[ $# -ne 2 ]]; then
     echo 'Usage:'
